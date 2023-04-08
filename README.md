@@ -6,7 +6,7 @@ Aditya Raj,
 Nicholas Lee,
 Ahmed Amer
 
-This is an analysis on calgary property assessments using spark and regression
+This is an analysis on calgary property assessments using spark and regression (big data tools)
 
 collaboration on code was done through google collab
 
